@@ -1,0 +1,8 @@
+There are two mode bending profiles, one from before and one from afterwards. I believe they are both good. The one from afterwards should be the most accurate.
+
+
+
+The three plot files are all the same data just imaged in slightly different ways. I suggest looking at the imagesc image for clarity. It displays how the modes bend. 
+
+Note the system was driven almost to the point of a bifurcation at primary resonance.
+

@@ -1,0 +1,8 @@
+The tongue data was aquired in two separate runs. I did them in parts so that I could check the output file after the first part to make sure to not waste time waiting for the second part. 
+
+I think the data is quite good. Note, the matlab file is the data put together, use logarithmic scaling to enhance the bifurcation borderline. 
+
+I have saved the plots that I feel are the best for illustrating the bifurcation behavior. I find it quite interesting mode of bifurcation. 
+On the low frequency end of the tongue, where the system must be driven to higher amplitudes the contrast before and after the bifurcation is strongest. 
+Basically the systems solutions are farther away from the linear solution and the "jump" is farther. This is quite remarkable, at frequencies close to the sum or linear combination,
+the bifurcation happens quickly and the system has bifurcated, but is closer to the old solution. 

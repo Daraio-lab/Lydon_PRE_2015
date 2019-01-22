@@ -1,0 +1,9 @@
+The data in this folder is the newest and should be good. 
+
+Note the oscilliscope snapshots are all together. So the first half should be at 9900Hz while the second half should be at 6700ish. 
+
+One thing to note is that the maximum of the amplitude appears to jump by a factor of 10 in both cases. 
+
+The bifurcation .gif for the quasiperiodic bifurcation appears to move around, but this is due to the quasiperiodic nature.
+The triggering occurs on the oscilliscope's phase and when the new frequency is not a rational multiple (i.e. quasiperiodic), 
+obviously we will never be able to actual trigger the waveform at the same point... (i.e. it is not periodic) 
